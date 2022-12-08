@@ -1,0 +1,29 @@
+.expenses__container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #868686;
+    padding: 1rem;
+    align-items: center;
+}
+.expenses__details {
+    display: flex;
+    gap: 1rem;
+    align-items: center; 
+    width: 100%;
+}
+.expenses__details h2 {
+    color: #fff;
+}
+.expenses__price {
+    padding: 0.5rem 1rem;
+    border: 2px solid #fff;
+    background-color: purple;
+    border-radius: 1rem;
+}
+.expenses__price p {
+    color: #fff;
+
+}
+.expenses__price button {
+    cursor: pointer;
+}

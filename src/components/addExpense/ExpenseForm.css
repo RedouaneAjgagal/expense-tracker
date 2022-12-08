@@ -1,0 +1,55 @@
+.expenseForm__Container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.expenseForm__Control label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.expenseForm__Control input {
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}
+
+.new-expense__actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+}
+
+.new-expense__actions button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    color: white;
+    border-radius: 12px;
+}
+
+.new-expense__actions button:hover,
+.new-expense__actions button:active {
+    background-color: #510674;
+    border-color: #510674;
+}
+
+.new-expense__actions button.alternative {
+    color: #220131;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.new-expense__actions button.alternative:hover,
+.new-expense__actions button.alternative:active {
+    background-color: #ddb3f8;
+}

@@ -1,0 +1,26 @@
+.expenses__Calendar {
+    background-color: #222;
+    padding: .3rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 6rem;
+    gap: .2rem;
+    border: 2px solid #fff;
+}
+.expenses__Calendar div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.expenses__Calendar div p:first-child {
+    font-weight: 700;
+}
+.expenses__Calendar > p {
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+.expenses__Calendar p{
+    color: #fff;
+}
