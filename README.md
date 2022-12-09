@@ -18,7 +18,7 @@ The website is not responsive since the project is for learning reacts
 
 Users should be able to:
 
-- Add a new expense
+- Add a new expense based on the year
 - Filter expenses by the year
 - Get a chart info of each month expense
 
