@@ -1,6 +1,6 @@
 # expenses-tracker
 
-Expenses Tracker App is a tracker project
+Expenses Tracker App is a tracker expenses project
 
 ## Table of contents
 
@@ -14,7 +14,7 @@ Expenses Tracker App is a tracker project
 
 Expenses Tracker App is a project from (the React - The Complete Guide (incl Hooks, React Router, Redux)) course on [Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
 
-The website is not responsive since the project is for learning react
+The website is not responsive since the project is for learning reacts
 
 Users should be able to:
 
